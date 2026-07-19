@@ -251,9 +251,4 @@ Donde:
 - Visualización de red social (grafo) en UI.
 - Pruebas automatizadas de estrés y regresión.
 
----
 
-## Autor
-
-**Daniel Alfonso Cely**  
-Proyecto de curso — Estructuras de Datos (2025)
